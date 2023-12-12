@@ -8,6 +8,7 @@ O projeto Asterisk, cujo nome deriva do grego "Asterisko" (estrela), foi concebi
 
 ---
 ![img](img11.jpg)
+[Slides de apresentação do projeto](/Slides.pdf)
 
 ---
 
